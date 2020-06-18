@@ -1,10 +1,10 @@
 - project:
     check:
       jobs:
-        - "noop"
+        - "thoth-coala"
     gate:
       jobs:
-        - "noop"
+        - "thoth-coala"
     kebechet-auto-gate:
       jobs:
         - "noop"
