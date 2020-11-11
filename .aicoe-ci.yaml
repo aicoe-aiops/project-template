@@ -8,7 +8,7 @@ check:
 # Uncomment following lines to build a public image of this repo
 # build:
 #   build-stratergy: Source
-#   build_source_script: "image:///opt/app-root/builder"
+#   build-source-script: "image:///opt/app-root/builder"
 #   base-image: quay.io/thoth-station/s2i-custom-notebook:latest
 #   registry: quay.io
 #   registry-org: aicoe
