@@ -1,7 +1,7 @@
 project-template
 ==============================
 
-template for the team to use
+{{cookiecutter.project_short_description}}
 
 Project Organization
 ------------
