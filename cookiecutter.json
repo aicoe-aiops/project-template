@@ -1,3 +1,4 @@
 {
-    "project_short_description": "Some description goes here"
+    "project_short_description": "Some description goes here",
+    "source_directory": "src"
 }
