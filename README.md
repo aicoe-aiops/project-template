@@ -60,7 +60,7 @@ Project Organization
     │   ├── ISSUE_TEMPLATE                      <- GitHub templates for issues
     |       ├── {major|minor|patch}_release.md  <- If Khebut GitHub App Bot (https://github.com/apps/khebhut) is installed, the issue will trigger a major|minor|patch release.
     │       |                                       The bot will open a Pull Request to update the CHANGELOG and fix the opened issue.
-    │       |                                       NOTE: only users that are allowed to release (a.k.a. maintainers specified in the .thoth.yaml file) can open the issue, otherwise bot will
+    │       |                                       NOTE: only users that are allowed to release (a.k.a. maintainers specified in the .thoth.yaml file) should open the issue, otherwise bot will
     │       |                                       reject them, commenting and closing the issue.
     │       |                                       If AICoE CI GitHub App (https://github.com/apps/aicoe-ci) is installed, once the pull request is merged a new tag is created by the bot
     │       |                                       and the pipeline to build and push image starts.
