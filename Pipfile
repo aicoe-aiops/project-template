@@ -9,7 +9,6 @@ coverage = "*"
 Sphinx = "*"
 
 [packages]
-src = {path = "./"}
 awscli = "*"
 
 [requires]
